@@ -1,4 +1,4 @@
-# pauloborges:mapbox
+# nicodinh:mapbox
 
 Mapbox.js for [Meteor](https://www.meteor.com/) apps.
 
@@ -6,19 +6,14 @@ Version matrix:
 
 Mapbox JS | Mapbox GL
 ----------|----------
-`2.1.5`   | `0.8.1`
+`2.2.2`   | `0.11.1`
 
 ## Install
 
     $ cd to/my/meteor/project
-    $ meteor add pauloborges:mapbox@2.1.5
-
-or (if you want to modify the code):
-
-    $ cd to/my/meteor/project
     $ mkdir packages # ensure that packages folder exists
-    $ git clone https://github.com/pauloborges/meteor-mapbox.git packages/pauloborges:mapbox
-    $ meteor add pauloborges:mapbox
+    $ git clone https://github.com/nicodinh/meteor-mapbox.git packages/nicodinh:mapbox
+    $ meteor add nicodinh:mapbox
 
 ## Supported plugins
 
